@@ -1,0 +1,14 @@
+{
+    "name": "nextjs-crash-course",
+    "version": 2,
+    "build": {
+      "env": {
+        "DB_URI":"mongodb+srv://testboy:CO6rYMfXOjCg1H2S@cluster0.sdxxr.mongodb.net/nextjs?retryWrites=true&w=majority", 
+        
+        "DB_NAME": "nextj",
+        
+        "SESSION_SECRET": "12345"
+       
+      }
+    }
+  }
