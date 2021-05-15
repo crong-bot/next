@@ -4,6 +4,12 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'twayair';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_tway@1.0/twayair.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 .nav{
     height: 50px;
     padding: 10px;   
@@ -39,7 +45,7 @@
     margin: 5px 15px;
     color: #1f1f1f;
     font-family: 'Dolbomche_R';
-    font-size: 1.2rem;
-    font-weight: 200;
+    font-size: 1rem;
+    font-weight: 100;
   }
   
