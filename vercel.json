@@ -5,7 +5,7 @@
       "env": {
         "DB_URI":"mongodb+srv://testboy:CO6rYMfXOjCg1H2S@cluster0.sdxxr.mongodb.net/nextjs?retryWrites=true&w=majority", 
         
-        "DB_NAME": "nextj",
+        "DB_NAME": "nextjs",
         
         "SESSION_SECRET": "12345"
        
