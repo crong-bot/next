@@ -1,0 +1,20 @@
+.item_img{
+display: block;
+margin: 0 auto;
+
+}
+.item_info{
+    display: block;
+    overflow: hidden;
+    width: 100px;
+    margin: 10px auto;
+}
+.wrap{
+    text-align: center;
+}
+.item_name{
+    display: block;
+    width: 160px;
+    overflow: hidden;
+    margin: 0 auto;
+}
