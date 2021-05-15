@@ -1,0 +1,2 @@
+# next
+nextjs exercise project
